@@ -1,0 +1,16 @@
+#violin {
+    color: lightskyblue;
+    width: 80px;
+}
+
+#logo {
+    font-family: 'Pacifico', cursive;
+}
+
+h1, h2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.info {
+    margin: 20px;
+}
