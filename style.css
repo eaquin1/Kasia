@@ -14,3 +14,11 @@ h1, h2 {
 .info {
     margin: 20px;
 }
+
+#header {
+    background-image: linear-gradient(to bottom, rgb(96, 124, 140), rgb(90, 116, 133), rgb(87, 113, 130), rgb(86, 110, 129), rgb(63, 84, 105), rgb(45, 63, 87), rgb(41, 59, 85), rgb(10, 16, 45));
+}
+
+/* #header-image {
+    background: linear-gradient(to right, transparent, rgb(99, 126, 143))
+} */
